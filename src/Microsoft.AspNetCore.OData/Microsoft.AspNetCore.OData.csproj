@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
+    <Version>8.2.5.1</Version>
+    <PackageId>Aims360.AspNetCore.OData</PackageId>
     <RootNamespace>Microsoft.AspNetCore.OData</RootNamespace>
     <DocumentationFile>$(OutputPath)$(AssemblyName).xml</DocumentationFile>
     <NoDefaultLaunchSettingsFile>true</NoDefaultLaunchSettingsFile>
